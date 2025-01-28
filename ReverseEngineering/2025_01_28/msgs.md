@@ -20,14 +20,16 @@ To get the most out of this course, you should have:
 *Course Milestones*  
 1. Introduction to Reverse Engineering  
 2. Understanding Disassemblers and Debuggers (IDA Pro/Ghidra/Radare2)  
-3. Static and Dynamic Analysis Techniques  
-4. Analyzing Executables: PE, ELF, etc.  
-5. Unpacking and Deobfuscation Techniques  
-6. Exploiting Anti-Debugging Mechanisms  
-7. Binary Instrumentation and Hooking Techniques  
-8. Malware Analysis Basics  
-9. Reverse Engineering for Vulnerability Research  
-10. Advanced Topics: Reconstructing Algorithms, Patch Analysis, etc.  
+3. Assembly Language x86-64 I  
+4. Assembly Language x86-64 II  
+5. Static and Dynamic Analysis Techniques  
+6. Analyzing Executables: PE, ELF, etc.  
+7. Unpacking and Deobfuscation Techniques  
+8. Exploiting Anti-Debugging Mechanisms  
+9. Binary Instrumentation and Hooking Techniques  
+10. Malware Analysis Basics  
+11. Reverse Engineering for Vulnerability Research  
+12. Advanced Topics: Reconstructing Algorithms, Patch Analysis, etc.  
 
 *How It Works*  
 - *Self-Paced Learning*: Materials and resources will be shared to let you learn at your own pace.  
